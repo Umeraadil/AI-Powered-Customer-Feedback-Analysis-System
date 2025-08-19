@@ -1709,7 +1709,7 @@ For questions, issues, or contributions:
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/AI-Powered-Customer-Feedback-Analysis-System/discussions)
 
 **Maintainers:**
-- Primary Maintainer: [Your Name](mailto:your.email@example.com)
+- Primary Maintainer: [UMER AADIL](mailto:umeraadil77@gmail.com)
 - Contributors: See [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
 ---
